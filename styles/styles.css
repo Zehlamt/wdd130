@@ -1,0 +1,9 @@
+/*selector is sthe body and inside the curly braces are all the declarations, or property value pairs, that will affect that selector*/
+body {
+    text-align: center;
+}
+
+nav {
+    background-color: steelblue;
+    padding: 10px;
+}
